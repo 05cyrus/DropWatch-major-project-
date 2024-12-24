@@ -1,0 +1,36 @@
+.airdrop-tracker {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.airdrop-tracker h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+}
+
+.airdrop-tracker ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.airdrop-tracker ul li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+}
+
+.airdrop-tracker ul li img {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
+
+.airdrop-tracker ul li p {
+  margin: 0;
+}
